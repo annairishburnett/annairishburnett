@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Anna 👋🏻
 
 <!--
 **annairishburnett/annairishburnett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a full-stack software engineer born and raised in Marquette, MI who loves clean, simple, & beautiful design. I also enjoy editing & crafting brand identities. 
+
+When I'm not working, you can find me cooking, doing yoga, rowing on Lake Superior, painting a birthday card, playing board games with friends and family, reading a solarpunk novel in a hammock, canoe camping, or rock climbing around the Upper Peninsula of Michigan.
+
+Do you need a website or a local web developer? Let's chat!
