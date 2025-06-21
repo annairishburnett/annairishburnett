@@ -1,5 +1,7 @@
 ## Hi there, I'm Anna 👋🏻
 
+[![Anna's GitHub Banner](github-banner.webp)](https://www.annairishburnett.com/)
+
 <!--
 **annairishburnett/annairishburnett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
