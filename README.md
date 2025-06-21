@@ -21,4 +21,4 @@ I'm a full-stack software engineer born and raised in Marquette, MI who loves cl
 
 When I'm not working, you can find me cooking, doing yoga, rowing on Lake Superior, painting a birthday card, playing board games with friends and family, reading a solarpunk novel in a hammock, canoe camping, or rock climbing around the Upper Peninsula of Michigan.
 
-Do you need a website or a local web developer? Let's chat!
+Do you need a website or a local web developer? <a href="https://www.annairishburnett.com/#contact" target="_blank">Let's chat!</a>
